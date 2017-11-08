@@ -1,0 +1,30 @@
+.carousel-inner .carousel-item .krypto {
+     width: 50%;
+     height:500px;
+     display:block;
+     margin:auto;
+ }
+.carousel-inner .carousel-item .pln {
+    width: 100%;
+    height:500px;
+}
+
+.pln-inner{
+    max-width: 1000px;
+    max-height: 500px;
+}
+
+ol.carousel-indicators li {
+    background: black;
+}
+
+ol.carousel-indicators li.active {
+    background: red;
+}
+.fa-chevron-left{
+    color: gray;
+}
+
+.fa-chevron-right{
+    color: gray;
+}
